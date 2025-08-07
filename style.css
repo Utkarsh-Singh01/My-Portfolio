@@ -49,7 +49,7 @@ body {
 .logo {
     position: relative;
     font-size: 2.5rem;
-    color: red;
+    color: blue;
     font-weight: 600;
 }
 
@@ -552,6 +552,7 @@ span {
     width: 77%;
 }
 
+
 .contact {
     min-height: auto;
     padding-bottom: 7rem;
@@ -897,5 +898,6 @@ section:nth-child(odd) .animate.scroll,
         width: 0;
     }
 }
+
 
 
