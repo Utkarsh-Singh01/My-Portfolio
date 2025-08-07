@@ -552,8 +552,6 @@ span {
     width: 77%;
 }
 
-
-
 .contact {
     min-height: auto;
     padding-bottom: 7rem;
@@ -899,4 +897,5 @@ section:nth-child(odd) .animate.scroll,
         width: 0;
     }
 }
+
 
